@@ -1,10 +1,11 @@
 {
+	"name": "fcc-learn-npm-package-json",
 	"author": {
 		"name": "Emmanuel Pangan",
 		"url": "https://emman-dev000.github.io",
 		"email": "emmanuelpanganwork@gmail.com"
 	},
-	"name": "fcc-learn-npm-package-json",
+	"description": "A project for adding a new certificate for LinkedIn.",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
